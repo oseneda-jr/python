@@ -3,7 +3,7 @@
 
 import sys
 
-numero: float
+numero: int
 resultado: int = 0
 x: int
 
